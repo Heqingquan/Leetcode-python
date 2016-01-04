@@ -1,3 +1,2 @@
-#About this Document
-----
-+ 这篇文件主要是作为一个简要的测试。
+### LeetCode 试题 ###
+python 版
