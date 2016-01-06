@@ -1,7 +1,7 @@
 '''
 解题思路：
 1,将树以广度优先展开。（queue）
-2、记录每行最后一个的位置，即为右视图
+2、记录树每行的最后一个的位置，即为右视图
 '''
 # Definition for a binary tree node.
 # class TreeNode(object):
